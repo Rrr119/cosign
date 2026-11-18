@@ -1,0 +1,17 @@
+{
+  "root": "/home/dev/feedback/uid26322",
+  "B": "/home/dev/feedback/uid26322",
+  "sha": "94b6a04fb67c7de0f75ddcce9b7805b7aed0b294",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "sigstore",
+    "repo": "cosign",
+    "sha": "94b6a04fb67c7de0f75ddcce9b7805b7aed0b294"
+  },
+  "fork": {
+    "owner": "Rrr119",
+    "repo": "cosign",
+    "cloneUrl": "https://github.com/Rrr119/cosign.git"
+  },
+  "at": "2026-11-18T16:31:21.047Z"
+}
