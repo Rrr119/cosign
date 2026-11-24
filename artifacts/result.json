@@ -1,0 +1,18 @@
+{
+  "uid": "36815",
+  "harness": "Codex CLI",
+  "snapshotUrl": "https://github.com/Rrr119/cosign/commit/cc46608b7ee8b8e3477b7a4c22beed8077c4f1a8",
+  "harnessVersion": "codex-cli 0.167.2",
+  "operatingSystem": "Ubuntu 26.04.1 LTS",
+  "operatingSystemCell": [
+    "MacOS/Linux"
+  ],
+  "outputDirectory": "/home/dev/feedback/uid36815",
+  "wslDistro": "Ubuntu-26.04",
+  "B": {
+    "success": false,
+    "canceled": true,
+    "error": "任务已取消",
+    "side": "B"
+  }
+}
